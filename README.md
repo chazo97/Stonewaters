@@ -1,10 +1,10 @@
-# 📚 Stonewaters
+# Stonewaters
 
 **Stonewaters** is a simple, fun book recommendation app built with plain HTML, CSS, and JavaScript. Enter a genre like `horror`, `scifi`, `fantasy`, or `thriller`, and get a curated list of book suggestions!
 
 > Definitely not Waterstones 😉 — just passionate genre picks!
 
-## 🚀 How to Use
+## How to Use
 
 1. **Clone the repository:**
    ```bash
@@ -16,7 +16,7 @@
    Simply open the index.html file in your browser. No server or setup required.
    ```
 
-## 🧠 What I Learned
+## What I Learned
 - DOM manipulation with JavaScript
 
 - Responsive UI with CSS
